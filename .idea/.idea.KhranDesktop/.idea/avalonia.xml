@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="KhranDesktop/App.axaml" value="KhranDesktop/KhranDesktop.csproj" />
+        <entry key="KhranDesktop/KeeperWindow.axaml" value="KhranDesktop/KhranDesktop.csproj" />
+        <entry key="KhranDesktop/MainWindow.axaml" value="KhranDesktop/KhranDesktop.csproj" />
+        <entry key="KhranDesktop/Pages/Auth.axaml" value="KhranDesktop/KhranDesktop.csproj" />
+        <entry key="KhranDesktop/Pages/MainMenu.axaml" value="KhranDesktop/KhranDesktop.csproj" />
+        <entry key="KhranDesktop/Pages/Registration.axaml" value="KhranDesktop/KhranDesktop.csproj" />
+        <entry key="KhranDesktop/Pages/VisitPage.axaml" value="KhranDesktop/KhranDesktop.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
